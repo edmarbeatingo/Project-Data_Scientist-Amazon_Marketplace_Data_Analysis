@@ -3,7 +3,14 @@ This project involves analyzing sales data to generate insights and visualizatio
 
 ### Data Sources
 The analysis is based on the following data sources:
-test_data.txt: Raw sales data.
-formatted_data.csv: Formatted version of the raw sales data.
-updated_data.csv: Updated version of the formatted data with additional processing.
-cleaned_data.csv: Cleaned version of the updated data, ready for analysis.
+1. [test_data.txt](test_data.txt): Contains the raw sales data.
+2. [formatted_data.csv](formatted_data.csv): Contains the formatted sales data.
+3. [updated_data.csv](updated_data.csv): Contains the updated sales data with additional processing
+4. [cleaned_data.csv](cleaned_data.csv): Contains the cleaned sales data, ready for analysis.
+
+### Scripts
+1. [mapped_data.py](mapped_data.py): Python script for mapping and formatting the raw data.
+2. [engineered_data.py](engineered_data.py): Python script for engineering additional features in the data.
+3. [cleaning_data.py](cleaning_data.py): Python script for cleaning the data.
+4. [analysis_data.py](analysis_data): Python script for performing the analysis and generating visualizations.
+5. [README.md](README.md): This documentation file.
